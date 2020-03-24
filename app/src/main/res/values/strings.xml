@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Movies</string>
+    <string name="txt_cancelar">CANCELAR</string>
+    <string name="txt_guardar">GUARDAR</string>
+    <string name="txt_genero">Genero</string>
+    <string name="txt_idioma">Idioma</string>
+    <string name="txt_npelicula">Nombre pelicula</string>
+    <string name="txt_director">Director</string>
+    <string name="txt_ingles">Ingles</string>
+    <string name="txt_español">Español</string>
+    <string name="txt_agregarpeli">Agregar pelicula</string>
+    <string name="txt_ver">Ver lista de peliculas</string>
+
+    <string name="txt_ordeng">Ordenar por genero</string>
+    <string name="txt_ordenn">Ordenar A-Z por nombre</string>
+    <string name="txt_invertir">Invertir la lista</string>
+    <string name="txt_eliminar">Eliminar la primera</string>
+
+    <string name="txt_mayuscula">Mayuscula</string>
+    <string name="txt_listado">Listado</string>
+</resources>

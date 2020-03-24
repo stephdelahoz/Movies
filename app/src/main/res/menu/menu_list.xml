@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_ordenargenero"
+        android:orderInCategory="100"
+        android:title="@string/txt_ordeng"
+        android:icon="@drawable/order_genero"/>
+    <item
+        android:id="@+id/item_ordenaraz"
+        android:orderInCategory="100"
+        android:title="@string/txt_ordenn"
+        android:icon="@drawable/order_az" />
+    <item
+        android:id="@+id/item_invertir"
+        android:orderInCategory="100"
+        android:title="@string/txt_invertir"
+        android:icon="@drawable/invertir_lista" />
+    <item
+        android:id="@+id/item_eliminar"
+        android:orderInCategory="100"
+        android:title="@string/txt_eliminar"
+        android:icon="@drawable/eliminar_primera" />
+</menu>
